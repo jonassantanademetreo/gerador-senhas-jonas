@@ -79,6 +79,6 @@ function classificaSenha() {
 
     const valorEntropia = document.querySelector('.entropia')
 valorEntropia.textContent = "Um conputador pode levar até " +
-Math.
+Math.floor(2**entropia/(100e6 * 60 * 60 *24)) + " dias para descobri essa senha";
 
 }
