@@ -3,10 +3,10 @@
 
 :root {
     --branco: rgba(1, 175, 255, 0.705);
-    --cor-de-fundo: #0dfff3;
+    --cor-de-fundo: #920dff;
     --fundo-senha: #000000;
     --fundo-texto: #003cff;
-    --borda: #ff0000;
+    --borda: #000000;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
